@@ -51,7 +51,7 @@ At last we tried Batch Normalization and Augumentation which really helped in ca
 - Tensor Flow 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+ [@HariHaran0690] haran.jayan1@gmail.com  Please feel free to contact us! Happy Coding !!
 
 
 <!-- Optional -->
